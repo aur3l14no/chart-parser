@@ -6,6 +6,9 @@
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^13.5.0",
+    "@tldraw/tldraw": "^1.19.1",
+    "lodash": "^4.17.21",
+    "mathjs": "^10.6.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
@@ -34,5 +37,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.7",
+    "mobx": "^6.6.1",
+    "postcss": "^8.4.14",
+    "tailwindcss": "^3.1.6"
   }
 }
